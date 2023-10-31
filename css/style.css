@@ -1,0 +1,29 @@
+
+
+
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  main h1 {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  div{
+    border-radius: 5px;
+    background-color: rgb(218, 211, 211);
+    padding: 10px;
+
+  }
